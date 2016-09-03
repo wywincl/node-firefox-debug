@@ -1,6 +1,6 @@
 # node-firefox-debug
 Docker container for creating a selenium node with Firefox, only for development.
-
+[![](https://images.microbadger.com/badges/image/wywincl/node-firefox-debug.svg)](http://microbadger.com/images/wywincl/node-firefox-debug "Get your own image badge on microbadger.com")
 
 # usage
 
